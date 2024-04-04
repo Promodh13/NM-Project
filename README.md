@@ -4,7 +4,7 @@
  
    CMake: <br> CMake is cross-platform free and open-source software for build automation, testing and packaging using a compiler-independent method. CMake is not a build system but rather it's a build-system generator.
   <br> Dlib:<br> Dlib is a general purpose cross-platform software library written in the programming language C++. Its design is heavily influenced by ideas from design by contract and component-based software engineering. 
-  <br> Face-recognition:<br> Recognize and manipulate faces from Python or from the command line with the world’s simplest face recognition library. Built using dlib’s state-of-the-art face recognition built with deep learning.
+  <br> Face-recognition:<br>Face recognition uses convolutional neural networks (CNNs) to identify faces in an image.Recognize and manipulate faces from Python or from the command line with the world’s simplest face recognition library. Built using dlib’s state-of-the-art face recognition built with deep learning.
  <br> NumPy:<br> NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, Fourier transform, and matrices.
  <br> OpenCV:<br> OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products.
 
@@ -36,5 +36,4 @@
     <br>The solution is to train a Deep Convolutional Neural Network. 
     
     
- <img src="https://github.com/saurabh4748/Attendance-with-Face-Recognition/blob/master/Screenshot%20(123).png">
 
